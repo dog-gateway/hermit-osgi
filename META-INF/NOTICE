@@ -1,0 +1,12 @@
+This OSGi bundle includes the HermiT reasoner and exports its packages
+for further usage in an OSGi environment.
+It includes the following libraries, in binary format, only:
+- HermiT reasoner (version 1.3.8), http://hermit-reasoner.com/
+- Apache Axiom (version 1.2.14), http://ws.apache.org/axiom/
+- Automaton (version 1.11-8), http://www.brics.dk/automaton/
+
+Axiom is released under the Apache License 2.0;
+Automaton is released under the BSD License;
+while HermiT is released under LGPL.
+
+The OSGi bundle is released under the Apache License 2.0.
